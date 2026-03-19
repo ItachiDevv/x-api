@@ -16,7 +16,7 @@ An [Agent Skill](https://agentskills.io) that teaches AI agents how to work with
 ## Install
 
 ```bash
-npx skills add nirholas/x-api
+npx skills add ItachiDevv/x-api
 ```
 
 ## Key Production Lessons
