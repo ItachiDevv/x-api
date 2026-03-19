@@ -1,0 +1,12 @@
+{
+  "name": "x-api",
+  "version": "2.0.0",
+  "description": "AI agent skill for X (Twitter) API v2 — posting, search, streaming, and production scheduling patterns",
+  "keywords": ["agent-skill", "x", "twitter", "api", "posting", "scheduling", "oauth"],
+  "author": "nirholas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/x-api"
+  }
+}
