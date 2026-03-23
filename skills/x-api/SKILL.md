@@ -6,7 +6,7 @@ description: >
   with retry logic, rate limit handling, and auth failure recovery.
   Use when integrating with X/Twitter, posting content, building bots, or scheduling tweets.
 metadata:
-  author: nirholas
+  author: ItachiDevv
   version: "2.0"
   tags: x, twitter, api, posting, scheduling, oauth, media-upload
 ---
